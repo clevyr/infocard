@@ -14,7 +14,7 @@ hiring: [full-stack, backend, mobile, devops, ai-ml]
 
 Clevyr builds custom software for companies that have outgrown off-the-shelf tools. We've been doing it since 2009 — before "digital transformation" was a buzzword, before every agency added "AI" to their homepage.
 
-We're a team of engineers, designers, and operators based in Oklahoma City, with clients across healthcare, finance, logistics, and anywhere else a hard problem lives. We write Laravel and Go on the backend, Vue on the front, Flutter for mobile, and we're serious about Kubernetes in production. We're a HubSpot Diamond Partner, which means we live at the intersection of engineering and revenue operations more than most dev shops.
+We're a team of engineers, designers, and operators based in Oklahoma City, with clients across healthcare, finance, logistics, and anywhere else a hard problem lives. Our default tooling is Laravel and Go on the backend, Vue on the frontend, Flutter for mobile, and Kubernetes in production, but we’re stack-agnostic by design. The stack should serve the solution, not the other way around. We're a HubSpot Diamond Partner, which means we live at the intersection of engineering and revenue operations more than most dev shops.
 
 We don't do boilerplate. We don't do "good enough." Every project we take on is something a client genuinely depends on — internal tools that run operations, customer-facing apps that carry real transactions, integrations that connect systems no one else wanted to touch. We call it **Chess, Not Checkers**: we think multiple moves ahead so our clients don't have to.
 
